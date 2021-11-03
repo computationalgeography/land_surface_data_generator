@@ -1,0 +1,9 @@
+name: lsdg
+channels:
+- conda-forge
+dependencies:
+- python
+- numpy
+- pcraster
+- gdal
+- pandas
